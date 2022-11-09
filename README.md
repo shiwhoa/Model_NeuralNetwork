@@ -1,2 +1,2 @@
 # NeuralNetwork
-Building a 2 layer Neural Network from scratch
+Built 2 layer Neural Netwoek Model from scratch without any libraries
